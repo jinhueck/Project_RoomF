@@ -1,0 +1,10 @@
+diff a/Assembly-CSharp.csproj b/Assembly-CSharp.csproj	(rejected hunks)
+@@ -10,7 +10,7 @@
+     <SchemaVersion>2.0</SchemaVersion>
+     <RootNamespace>
+     </RootNamespace>
+-    <ProjectGuid>{33F5CB9B-2985-B438-22BF-0FD295A29FDA}</ProjectGuid>
++    <ProjectGuid>{3162CB1C-60DA-A503-3C13-721EC5AF73DA}</ProjectGuid>
+     <OutputType>Library</OutputType>
+     <AppDesignerFolder>Properties</AppDesignerFolder>
+     <AssemblyName>Assembly-CSharp</AssemblyName>
